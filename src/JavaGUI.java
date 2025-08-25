@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-
+// First attempt at GUI
 public class JavaGUI {
 
     public static void main(String[] args) {
