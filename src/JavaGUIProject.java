@@ -1,7 +1,7 @@
 import javax.swing.*;
 
 // First attempt at GUI
-public class JavaGUI {
+public class JavaGUIProject {
 
     public static void main(String[] args) {
         JFrame frame = new JFrame();
@@ -9,7 +9,7 @@ public class JavaGUI {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLocationRelativeTo(null);
 
-        JButton button = new JButton("Click here!")
+        JButton button = new JButton("Click here!");
 
         frame.setVisible(true);
     }
