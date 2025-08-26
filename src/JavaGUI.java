@@ -9,7 +9,8 @@ public class JavaGUI {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLocationRelativeTo(null);
 
-        frame.setVisible(true);
+        JButton button = new JButton("Click here!")
 
+        frame.setVisible(true);
     }
 }
